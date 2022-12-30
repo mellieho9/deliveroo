@@ -7,7 +7,6 @@ A React Native clone of Deliveroo, supporting dashboard, add-a-basket, checkout,
 - A basket management system
 - A checkout screen
 - An animated loading screen
-- A delivery tracking screen
 
 ## Preview
 <img src="https://github.com/mellieho9/deliveroo/blob/main/preview/Screenshot%202022-12-30%20at%2012.45.04%20PM.png" width="500">
