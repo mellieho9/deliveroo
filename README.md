@@ -9,10 +9,11 @@ A React Native clone of Deliveroo, supporting dashboard, add-a-basket, checkout,
 - An animated loading screen
 
 ## Preview
-<img src="https://github.com/mellieho9/deliveroo/blob/main/preview/Screenshot%202022-12-30%20at%2012.45.04%20PM.png" width="500">
-<img src="https://github.com/mellieho9/deliveroo/blob/main/preview/Screenshot%202022-12-30%20at%2012.45.12%20PM.png" width="500">
-<img src="https://github.com/mellieho9/deliveroo/blob/main/preview/Screenshot%202022-12-30%20at%2012.45.19%20PM.png" width="500">
-
+<p align="middle">
+<img src="https://github.com/mellieho9/deliveroo/blob/main/preview/Screenshot%202022-12-30%20at%2012.45.04%20PM.png" width="200">
+<img src="https://github.com/mellieho9/deliveroo/blob/main/preview/Screenshot%202022-12-30%20at%2012.45.12%20PM.png" width="200">
+<img src="https://github.com/mellieho9/deliveroo/blob/main/preview/Screenshot%202022-12-30%20at%2012.45.19%20PM.png" width="200">
+</p>
 
 
 ## Technologies used 🛠️
